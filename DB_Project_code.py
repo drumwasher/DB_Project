@@ -1,3 +1,9 @@
+#코드를 실행하기 위해서 다음과 같은 패키지를 설치해야합니다.
+#pip install havarsine
+#pip install numpy
+#pip install requests
+#pip install pytz
+
 import requests
 import numpy as np
 from haversine import haversine
